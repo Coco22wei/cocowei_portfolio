@@ -122,3 +122,10 @@ footer {
     border-top: 2px solid #ffd6ec;
     color: #c26ea8;
 }
+
+.project-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
